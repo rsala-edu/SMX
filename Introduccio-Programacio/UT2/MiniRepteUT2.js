@@ -3,7 +3,7 @@ const prompt = require('prompt-sync')();
 
 // Declarem Constants per a definir quants bytes té cada 
 // unitat del sistema binari (1 KB = 1024 bytes)
-const KB = 1024;
+const KBvv = 1024;
 const MB = KB * 1024;
 const GB = MB * 1024;
 
